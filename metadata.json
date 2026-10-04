@@ -1,0 +1,8 @@
+{
+  "name": "Sticker Studio AI",
+  "description": "A premium AI-powered sticker generator that creates beautiful, printable, die-cut stickers from your photos with smart context-aware quotes and layouts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
